@@ -7,8 +7,8 @@ Machine Learning & Quantitative Finance Enthusiast
 Welcome to my page!
 I am a pre-final year undergrad passionate about open-source and learning all I can from it.
 
-* 🌍  I'm based in Mumbai, India
-* ✉️  You can contact me at [jashbvora@gmail.com](mailto:jashbvora@gmail.com)
+* 🌍  I'm currently based in Mumbai, India
+* ✉️  You can contact me on Linkedin
 
 ### Skills
 
