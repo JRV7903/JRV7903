@@ -1,11 +1,11 @@
 Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jash Vora
 =================================================================================================================================
 
-Machine Learning Enthusiast
+I build things
 ---------------------------
 
 Welcome to my page!
-I am a pre-final year undergrad student passionate about open-source and learning all I can from it.
+I am a final year undergrad student passionate about open-source and learning all I can from it.
 
 * 🌍  I'm currently based in Mumbai, India
 * ✉️  You can contact me on Linkedin
